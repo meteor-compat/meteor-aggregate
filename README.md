@@ -1,10 +1,10 @@
 [![](https://api.travis-ci.org/meteorhacks/meteor-aggregate.svg)](https://travis-ci.org/meteorhacks/meteor-aggregate)
 
-# Compatibility version of sakulstra:aggregate
+# Compatibility
 
-This repository has moved from https://github.com/sakulstra/meteor-aggregate. For newer versions check here.
+**Compatible with Meteor 2.6**
 
-We've applied the Meteor Compat policy, as you can read more [here](https://forums.meteor.com/t/introducing-meteor-compat-packages/56759)
+This repository provides versions for the package [sakulstra:aggregate](https://github.com/sakulstra/meteor-aggregate/) that are compatible with latest Meteor. This is necessary because the author is not maintaining package anymore.
 
 # maintained fork of meteorhacks:aggregate
 

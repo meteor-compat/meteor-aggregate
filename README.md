@@ -1,5 +1,11 @@
 [![](https://api.travis-ci.org/meteorhacks/meteor-aggregate.svg)](https://travis-ci.org/meteorhacks/meteor-aggregate)
 
+# Compatibility version of sakulstra:aggregate
+
+This repository has moved from https://github.com/sakulstra/meteor-aggregate. For newer versions check here.
+
+We've applied the Meteor Compat policy, as you can read more [here](https://forums.meteor.com/t/introducing-meteor-compat-packages/56759)
+
 # maintained fork of meteorhacks:aggregate
 
 A simple package to add proper aggregation support for Meteor. This package exposes `.aggregate` method on `Mongo.Collection` instances.
